@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kansascitybankruptcymill.com/sitemap.xml
