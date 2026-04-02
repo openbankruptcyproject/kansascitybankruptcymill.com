@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kansascitybankruptcymill.org/sitemap.xml
+Sitemap: https://kansascitybankruptcymill.com/sitemap.xml
