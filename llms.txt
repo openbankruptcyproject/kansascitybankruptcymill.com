@@ -1,0 +1,18 @@
+# Kansas City Bankruptcy Mill: What the Court Data Shows
+> Learn about kansas city bankruptcy mill: what the court data shows | kansascitybankruptcymill.com in our free 2026 guide.
+
+## About
+kansascitybankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Chapter 13 Bankruptcy in Kansas City: Dismissal Rates, Costs & What the Data Shows: https://kansascitybankruptcymill.com/chapter-13-kansas-city.html
+- Chapter 7 Bankruptcy in Kansas City: Costs, Timeline & Discharge Data (2026): https://kansascitybankruptcymill.com/chapter-7-kansas-city.html
+- Kansas City Bankruptcy Mill: What the Court Data Shows: https://kansascitybankruptcymill.com/
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
