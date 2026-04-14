@@ -20,12 +20,14 @@ Chapter 7 Data
 Discharge Screener
 Research
 
-Updated March 2026 -- FJC Data Through 2024
+Updated March 2026 - FJC Data Through 2024
 
 Chapter 13 Bankruptcy in Kansas City:
 What the Court Data Actually Shows
 
-Thinking about filing Chapter 13 in Kansas City? Before you hire an attorney, look at the numbers. This page presents federal court data on Chapter 13 outcomes in the Western District of Missouri and the District of Kansas -- the two courts that serve the KC metro area.
+Thinking about filing Chapter 13 in Kansas City? Before you hire an attorney, look at the numbers. This page presents federal court data on Chapter 13 outcomes in the Western District of Missouri and the District of Kansas - the two courts that serve the KC metro area.
+
+Home›Chapter 13 Bankruptcy in Kansas City: Dismissal Rates, Costs & What the Data Shows›Chapter 13 Bankruptcy in Kansas City:What the Court Data Actually Shows
 
 5,056
 
@@ -69,9 +71,9 @@ The Kansas City Chapter 13 Track Record
 
 Between 2018 and 2024, 5,056 Chapter 13 cases were filed in the Western District of Missouri. Of the cases that have reached a final resolution:
 
-44.4% were dismissed -- meaning the debtor lost bankruptcy protection, received no discharge, and may have spent months or years making payments for nothing. Only 48.7% resulted in a successful discharge.
+44.4% were dismissed - meaning the debtor lost bankruptcy protection, received no discharge, and may have spent months or years making payments for nothing. Only 48.7% resulted in a successful discharge.
 
-Year-by-Year Outcomes -- W.D. Mo. Chapter 13
+Year-by-Year Outcomes - W.D. Mo. Chapter 13
 
 Year FiledTotal FiledDismissedDischargedStill PendingDismiss Rate
 
@@ -93,7 +95,7 @@ Year FiledTotal FiledDismissedDischargedStill PendingDismiss Rate
 
 How Kansas Compares
 
-The District of Kansas -- covering the Kansas side of the KC metro including Overland Park, Olathe, and Shawnee -- tells a different story:
+The District of Kansas - covering the Kansas side of the KC metro including Overland Park, Olathe, and Shawnee - tells a different story:
 
 MetricW.D. Mo.D. Kan.Difference
 
@@ -119,7 +121,7 @@ Failed plan payments42.0%Debtor could not keep up with monthly payments to the t
 
 Other reason36.5%Catch-all category including voluntary dismissal, conversion, and procedural issues
 
-Failed to pay filing fee13.0%Court filing fee ($313) not paid -- often an early warning of financial distress
+Failed to pay filing fee13.0%Court filing fee ($313) not paid - often an early warning of financial distress
 
 Failed to file information8.4%Required documents (schedules, tax returns, pay stubs) not filed on time
 
@@ -127,11 +129,11 @@ The Plan Payment Problem
 
 Failed plan payments account for 42% of all dismissals. But this number alone does not explain whether the failures are debtor-driven (genuine financial hardship) or attorney-driven (unrealistic plans filed without adequate budgeting).
 
-When an attorney files a Chapter 13 plan with monthly payments the debtor cannot sustain, the case is set up to fail from day one. The debtor makes payments for months -- sometimes years -- before the plan is dismissed. The attorney, however, has already been paid (or is being paid through the plan). The incentive to ensure plan feasibility is structurally weak in high-volume practices where the attorney may never personally review the debtor's budget.
+When an attorney files a Chapter 13 plan with monthly payments the debtor cannot sustain, the case is set up to fail from day one. The debtor makes payments for months - sometimes years - before the plan is dismissed. The attorney, however, has already been paid (or is being paid through the plan). The incentive to ensure plan feasibility is structurally weak in high-volume practices where the attorney may never personally review the debtor's budget.
 
 The Document Filing Problem
 
-8.4% of dismissals occur because required documents were never filed. This is an attorney responsibility. Failure to file schedules, tax returns, or pay stubs is not a client problem -- it is a practice management problem. In a well-run office, these deadlines are calendared and tracked. In a mill, they fall through the cracks.
+8.4% of dismissals occur because required documents were never filed. This is an attorney responsibility. Failure to file schedules, tax returns, or pay stubs is not a client problem - it is a practice management problem. In a well-run office, these deadlines are calendared and tracked. In a mill, they fall through the cracks.
 
 Attorney Market Concentration
 
@@ -151,7 +153,7 @@ Under 50 cases542901.4%62.7%
 
 15 attorneys control 80.6% of the Chapter 13 market. This means a Kansas City debtor's outcome is largely determined by which of these attorneys they hire. The dismissal rates across all volume tiers hover around 41-43%, suggesting systemic issues rather than isolated bad actors.
 
-For comparison, high-volume attorneys in the District of Kansas achieve a 26.2% dismissal rate -- 16 points lower than the same category in W.D. Mo. The concentration is not the problem. The outcomes are.
+For comparison, high-volume attorneys in the District of Kansas achieve a 26.2% dismissal rate - 16 points lower than the same category in W.D. Mo. The concentration is not the problem. The outcomes are.
 
 The Chapter 13 Process: What to Expect
 
@@ -203,7 +205,7 @@ You received a Chapter 13 discharge within the last 2 years
 
 In the Western District of Missouri, 10.2% of Chapter 13 filers had a prior bankruptcy filing in the same court. Some of these filers may be legally ineligible for a discharge before their case is even filed. An attorney who does not check this before filing is not performing basic due diligence.
 
-Check Your Discharge Eligibility -- Free Tool
+Check Your Discharge Eligibility - Free Tool
 
 Questions to Ask Before Hiring a Chapter 13 Attorney
 
@@ -229,7 +231,7 @@ If you fall behind on plan payments or your financial circumstances change, your
 
 Plan Modification
 
-Under 11 U.S.C. Section 1329, you or your attorney can ask the court to modify your plan after confirmation. Common modifications include reducing the monthly payment amount, extending the plan duration (up to the 5-year maximum), or adjusting how creditors are paid. If your income has dropped due to job loss, medical issues, or other hardship, a modification may allow you to keep your case alive rather than losing everything you have paid so far. Your attorney should be proactive about proposing modifications when your circumstances change -- not waiting until the trustee files a motion to dismiss.
+Under 11 U.S.C. Section 1329, you or your attorney can ask the court to modify your plan after confirmation. Common modifications include reducing the monthly payment amount, extending the plan duration (up to the 5-year maximum), or adjusting how creditors are paid. If your income has dropped due to job loss, medical issues, or other hardship, a modification may allow you to keep your case alive rather than losing everything you have paid so far. Your attorney should be proactive about proposing modifications when your circumstances change - not waiting until the trustee files a motion to dismiss.
 
 Hardship Discharge
 
@@ -245,15 +247,15 @@ You can ask to dismiss your own Chapter 13 case. After dismissal, you lose the p
 
 The Cost of a Failed Chapter 13
 
-When a Chapter 13 case is dismissed, the debtor does not just lose the bankruptcy protection -- they may lose years of payments with nothing to show for it. Understanding the true cost of failure is essential before deciding to file.
+When a Chapter 13 case is dismissed, the debtor does not just lose the bankruptcy protection - they may lose years of payments with nothing to show for it. Understanding the true cost of failure is essential before deciding to file.
 
 Attorney Fees in Dismissed Cases
 
-In most Kansas City Chapter 13 cases, attorney fees are paid through the plan before unsecured creditors receive anything. This means your attorney may receive their full fee -- or a substantial portion of it -- even if your case is dismissed and you receive no discharge. The court approves these fees under 11 U.S.C. Section 330, and they are deducted from your plan payments. If your case fails after 2 years of payments, your attorney may have been paid $3,000-5,000 while you walk away with no debt relief.
+In most Kansas City Chapter 13 cases, attorney fees are paid through the plan before unsecured creditors receive anything. This means your attorney may receive their full fee - or a substantial portion of it - even if your case is dismissed and you receive no discharge. The court approves these fees under 11 U.S.C. Section 330, and they are deducted from your plan payments. If your case fails after 2 years of payments, your attorney may have been paid $3,000-5,000 while you walk away with no debt relief.
 
 Lost Time and Compounding Debt
 
-A dismissed Chapter 13 case means 1-3 years of plan payments that did not result in a discharge. During that time, nondischargeable debts like student loans and recent taxes continued to accrue interest. If the case is dismissed, creditors who were not paid in full through the plan can resume collection for the full remaining balance -- plus any interest and fees that accumulated while the case was pending. For some debtors, their financial situation is worse after a failed Chapter 13 than it was before filing.
+A dismissed Chapter 13 case means 1-3 years of plan payments that did not result in a discharge. During that time, nondischargeable debts like student loans and recent taxes continued to accrue interest. If the case is dismissed, creditors who were not paid in full through the plan can resume collection for the full remaining balance - plus any interest and fees that accumulated while the case was pending. For some debtors, their financial situation is worse after a failed Chapter 13 than it was before filing.
 
 Impact on Future Filings
 
@@ -267,7 +269,7 @@ In the Western District of Missouri, only 48.7% of resolved Chapter 13 cases res
 
 How much does Chapter 13 cost in Kansas City?
 
-Chapter 13 attorney fees in Kansas City typically range from $3,000 to $5,000, paid through the bankruptcy plan over 3-5 years. The court filing fee is $313. Total out-of-pocket depends on your plan terms. Importantly, attorney fees are often paid even when the case is dismissed -- meaning the attorney earns their fee regardless of whether you receive a discharge.
+Chapter 13 attorney fees in Kansas City typically range from $3,000 to $5,000, paid through the bankruptcy plan over 3-5 years. The court filing fee is $313. Total out-of-pocket depends on your plan terms. Importantly, attorney fees are often paid even when the case is dismissed - meaning the attorney earns their fee regardless of whether you receive a discharge.
 
 Why are so many Chapter 13 cases dismissed in Kansas City?
 
@@ -322,10 +324,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
+Cornell LII - debt relief agency rules
 
 U.S. Trustee Program
 DOJ attorney oversight
@@ -412,12 +414,14 @@ Chapter 7 Data
 Discharge Screener
 Research
 
-93%+ Discharge Rate -- W.D. Mo. Data Through 2024
+93%+ Discharge Rate - W.D. Mo. Data Through 2024
 
 Chapter 7 Bankruptcy in Kansas City:
 Costs, Timeline & What the Data Shows
 
 Chapter 7 is the most common form of bankruptcy and has the highest success rate. In the Western District of Missouri, over 93% of Chapter 7 filers receive a discharge. Here is everything the court data tells us about filing Chapter 7 in Kansas City.
+
+Home›Chapter 7 Bankruptcy in Kansas City: Costs, Timeline & Discharge Data (2026)›Chapter 7 Bankruptcy in Kansas City:Costs, Timeline & What the Data Shows
 
 3,135
 
@@ -439,11 +443,11 @@ rate
 typical timeline
 to discharge
 
-The good news: Chapter 7 works. Unlike Chapter 13, where 44.4% of W.D. Mo. cases are dismissed, Chapter 7 has a consistent 93%+ discharge rate. The risk of failure is low -- but choosing the right attorney still matters for exemption planning, reaffirmation decisions, and avoiding unnecessary complications.
+The good news: Chapter 7 works. Unlike Chapter 13, where 44.4% of W.D. Mo. cases are dismissed, Chapter 7 has a consistent 93%+ discharge rate. The risk of failure is low - but choosing the right attorney still matters for exemption planning, reaffirmation decisions, and avoiding unnecessary complications.
 
 What Is Chapter 7 Bankruptcy?
 
-Chapter 7 is a liquidation bankruptcy. A court-appointed trustee reviews your assets, sells any non-exempt property to pay creditors, and remaining qualifying debts are discharged -- typically within 3 to 4 months of filing. In practice, most Chapter 7 cases are "no-asset" cases, meaning the debtor has no non-exempt property for the trustee to liquidate.
+Chapter 7 is a liquidation bankruptcy. A court-appointed trustee reviews your assets, sells any non-exempt property to pay creditors, and remaining qualifying debts are discharged - typically within 3 to 4 months of filing. In practice, most Chapter 7 cases are "no-asset" cases, meaning the debtor has no non-exempt property for the trustee to liquidate.
 
 Chapter 7 eliminates most unsecured debts including:
 
@@ -473,7 +477,7 @@ Most government fines and penalties
 
 Chapter 7 Outcomes in Kansas City
 
-Year-by-Year Data -- W.D. Mo.
+Year-by-Year Data - W.D. Mo.
 
 Year FiledTotal FiledDismissedDischargedDismiss RateDischarge Rate
 
@@ -497,7 +501,7 @@ The difference from Chapter 13 is notable. Chapter 7 discharge rates have stayed
 
 Filing Volume Trend
 
-Chapter 7 filings in W.D. Mo. dropped 63% from 2018 to 2022 (688 to 255), largely due to COVID-era stimulus payments and enhanced unemployment benefits. Filings have rebounded since, reaching 391 in 2024 -- 57% of pre-COVID levels and climbing.
+Chapter 7 filings in W.D. Mo. dropped 63% from 2018 to 2022 (688 to 255), largely due to COVID-era stimulus payments and enhanced unemployment benefits. Filings have rebounded since, reaching 391 in 2024 - 57% of pre-COVID levels and climbing.
 
 MetricW.D. Mo.D. Kan.
 
@@ -535,7 +539,7 @@ $1,400 - $2,900
 
 All-in estimate including filing fee, attorney, and both counseling courses.
 
-Important: Unlike Chapter 13, where attorney fees can be paid through the plan, Chapter 7 fees are typically due before filing. Be wary of any attorney who asks you to charge the legal fees to a credit card -- this can create a nondischargeable debt if done shortly before filing.
+Important: Unlike Chapter 13, where attorney fees can be paid through the plan, Chapter 7 fees are typically due before filing. Be wary of any attorney who asks you to charge the legal fees to a credit card - this can create a nondischargeable debt if done shortly before filing.
 
 Do You Qualify? The Means Test
 
@@ -611,7 +615,7 @@ Prior Chapter 13 discharge: Must wait 6 years (unless the prior Chapter 13 paid 
 
 In W.D. Mo., 3.3% of Chapter 7 filers had a prior bankruptcy filing. If your attorney does not check these eligibility bars before filing, you could go through the entire process and be denied a discharge at the end.
 
-Check Your Discharge Eligibility -- Free Tool
+Check Your Discharge Eligibility - Free Tool
 
 Chapter 7 vs. Chapter 13: Which Is Right for You?
 
@@ -669,11 +673,11 @@ Chapter 7 has a high success rate in Kansas City, but the quality of your experi
 
 Exemption Planning
 
-Your attorney's most important job in Chapter 7 is making sure your property is protected. Missouri and Kansas have very different exemption systems, and the rules about which state's exemptions apply depend on where you have lived for the past two years. An attorney who does not carefully analyze your exemptions before filing could expose property that should have been protected -- or miss opportunities to maximize your protections.
+Your attorney's most important job in Chapter 7 is making sure your property is protected. Missouri and Kansas have very different exemption systems, and the rules about which state's exemptions apply depend on where you have lived for the past two years. An attorney who does not carefully analyze your exemptions before filing could expose property that should have been protected - or miss opportunities to maximize your protections.
 
 Reaffirmation Decisions
 
-If you have a car loan or other secured debt you want to keep paying, your attorney should explain the pros and cons of reaffirmation versus redemption versus surrender. Reaffirming a debt means you remain personally liable even after bankruptcy. In some cases, continuing to make payments without reaffirming -- known as "ride-through" -- may be an option, though not all lenders cooperate. An attorney who pressures you to reaffirm without explaining the risks is not looking out for your interests.
+If you have a car loan or other secured debt you want to keep paying, your attorney should explain the pros and cons of reaffirmation versus redemption versus surrender. Reaffirming a debt means you remain personally liable even after bankruptcy. In some cases, continuing to make payments without reaffirming - known as "ride-through" - may be an option, though not all lenders cooperate. An attorney who pressures you to reaffirm without explaining the risks is not looking out for your interests.
 
 Fee Transparency
 
@@ -681,11 +685,11 @@ Chapter 7 fees in Kansas City range from $1,000 to $2,500. Be cautious of any at
 
 Volume and Attention
 
-Some Kansas City bankruptcy attorneys handle hundreds of cases per year. High volume is not inherently bad -- the 93%+ discharge rate reflects the work of high-volume filers. But you should ask whether the attorney will personally review your petition and attend your 341 meeting, or whether those tasks will be handled by staff. You deserve to know who is actually doing the work on your case.
+Some Kansas City bankruptcy attorneys handle hundreds of cases per year. High volume is not inherently bad - the 93%+ discharge rate reflects the work of high-volume filers. But you should ask whether the attorney will personally review your petition and attend your 341 meeting, or whether those tasks will be handled by staff. You deserve to know who is actually doing the work on your case.
 
 Life After Chapter 7 Discharge
 
-Getting your discharge is not the end of the process -- it is the beginning of rebuilding. Here is what to expect in the months and years after your Chapter 7 case closes.
+Getting your discharge is not the end of the process - it is the beginning of rebuilding. Here is what to expect in the months and years after your Chapter 7 case closes.
 
 Credit Rebuilding Timeline
 
@@ -766,10 +770,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
+Cornell LII - debt relief agency rules
 
 U.S. Trustee Program
 DOJ attorney oversight
@@ -856,9 +860,9 @@ Chapter 7 Data
 Discharge Screener
 Research
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
-Federal Court Data -- W.D. Mo. & D. Kan.
+Federal Court Data - W.D. Mo. & D. Kan.
 
 Kansas City Bankruptcy Mill:
 What the Court Data Actually Shows
@@ -880,13 +884,13 @@ dismissal rate
 of W.D. Mo. Ch.13 cases
 filed by just 15 attorneys
 
-Two courts. Same metro area. Very different outcomes. A Chapter 13 debtor in the Western District of Missouri is 25% more likely to have their case dismissed than a debtor across the state line in the District of Kansas. Both courts serve the Kansas City metro. The difference is not geography -- it is practice.
+Two courts. Same metro area. Very different outcomes. A Chapter 13 debtor in the Western District of Missouri is 25% more likely to have their case dismissed than a debtor across the state line in the District of Kansas. Both courts serve the Kansas City metro. The difference is not geography - it is practice.
 
 The Kansas City Numbers
 
 The Kansas City metropolitan area is split between two federal bankruptcy courts: the Western District of Missouri (W.D. Mo., covering the Missouri side) and the District of Kansas (D. Kan., covering the Kansas side). Both serve the same economic population. But their Chapter 13 outcomes diverge sharply.
 
-Chapter 13 Outcomes by Year -- W.D. Mo.
+Chapter 13 Outcomes by Year - W.D. Mo.
 
 YearFiledDismissedDischargedDismiss RateDischarge Rate
 
@@ -906,7 +910,7 @@ YearFiledDismissedDischargedDismiss RateDischarge Rate
 
 Note: 2022-2024 cases are mostly still pending. Mature cohorts (2018-2020) show the clearest picture. Source: FJC Integrated Database.
 
-Chapter 13 Outcomes by Year -- D. Kan.
+Chapter 13 Outcomes by Year - D. Kan.
 
 YearFiledDismissedDischargedDismiss RateDischarge Rate
 
@@ -953,7 +957,7 @@ vs
 
 Market Concentration
 
-The Kansas City Missouri-side bankruptcy market is one of the most concentrated in the country. A small number of attorneys handle the vast majority of cases -- a structural condition that can enable mill-like practices when combined with poor outcomes.
+The Kansas City Missouri-side bankruptcy market is one of the most concentrated in the country. A small number of attorneys handle the vast majority of cases - a structural condition that can enable mill-like practices when combined with poor outcomes.
 
 Attorney VolumeAttorneysCh.13 CasesShare of All FilingsDismissal Rate
 
@@ -967,13 +971,13 @@ Attorney VolumeAttorneysCh.13 CasesShare of All FilingsDismissal Rate
 
 Under 50 cases542901.4%62.7%
 
-What this means: 21 attorneys filing 200 or more Chapter 13 cases account for 91.1% of all filings in the Western District of Missouri. Whether a debtor gets adequate representation depends almost entirely on which of these attorneys they hire. And the dismissal rates across all tiers -- 41% to 43% -- suggest systemic problems that go beyond any single firm.
+What this means: 21 attorneys filing 200 or more Chapter 13 cases account for 91.1% of all filings in the Western District of Missouri. Whether a debtor gets adequate representation depends almost entirely on which of these attorneys they hire. And the dismissal rates across all tiers - 41% to 43% - suggest systemic problems that go beyond any single firm.
 
 Why Concentration Matters
 
-High market concentration is not inherently bad. An experienced attorney handling many cases can develop expertise and efficiency that benefits clients. The problem arises when volume outpaces capacity -- when an attorney takes on more cases than they can adequately serve.
+High market concentration is not inherently bad. An experienced attorney handling many cases can develop expertise and efficiency that benefits clients. The problem arises when volume outpaces capacity - when an attorney takes on more cases than they can adequately serve.
 
-The distinguishing factor is outcomes. In the District of Kansas, high-volume attorneys (500+ cases) have a 26.2% dismissal rate. In the Western District of Missouri, that same category has a 42.0% dismissal rate -- 16 percentage points higher. Same metro area, same economic conditions, same types of debtors. The gap is in the practice.
+The distinguishing factor is outcomes. In the District of Kansas, high-volume attorneys (500+ cases) have a 26.2% dismissal rate. In the Western District of Missouri, that same category has a 42.0% dismissal rate - 16 percentage points higher. Same metro area, same economic conditions, same types of debtors. The gap is in the practice.
 
 Why Cases Fail in Kansas City
 
@@ -989,7 +993,7 @@ Failed to pay filing fee13.0%
 
 Failed to file required information8.4%
 
-"Failed plan payments" is the most common reason, but this category masks a more nuanced reality. Plan failures can result from genuinely changed circumstances -- job loss, medical emergencies, divorce. But they can also result from poorly designed plans that were never realistic, based on income and expense calculations that did not reflect the debtor's actual situation.
+"Failed plan payments" is the most common reason, but this category masks a more nuanced reality. Plan failures can result from genuinely changed circumstances - job loss, medical emergencies, divorce. But they can also result from poorly designed plans that were never realistic, based on income and expense calculations that did not reflect the debtor's actual situation.
 
 The "filed to fail" pattern: When an attorney files a Chapter 13 plan that is unlikely to succeed, the debtor still pays attorney fees (often through the plan itself), the attorney still earns their fee, and the client bears the full cost of failure. This creates a perverse incentive: the attorney profits regardless of outcome. Identifying this pattern requires comparing individual attorney dismissal rates against the court average.
 
@@ -999,7 +1003,7 @@ One in ten Chapter 13 filers in the Western District of Missouri (10.2%) had a p
 
 What To Look For
 
-If you are considering hiring a bankruptcy attorney in the Kansas City area -- or if you are already represented and wondering whether your case is being handled adequately -- here are data-backed questions to ask:
+If you are considering hiring a bankruptcy attorney in the Kansas City area - or if you are already represented and wondering whether your case is being handled adequately - here are data-backed questions to ask:
 
 1. What is your dismissal rate?
 
@@ -1019,7 +1023,7 @@ Under 11 U.S.C. § 1328(f), prior filers face waiting periods before they can re
 
 5. How are your fees structured?
 
-In Chapter 13, attorney fees are typically paid through the bankruptcy plan -- meaning you may not realize the full cost until years into your case. Ask for the total fee upfront, and compare it to the court-approved fee guidelines for your district.
+In Chapter 13, attorney fees are typically paid through the bankruptcy plan - meaning you may not realize the full cost until years into your case. Ask for the total fee upfront, and compare it to the court-approved fee guidelines for your district.
 
 Frequently Asked Questions
 
@@ -1029,11 +1033,11 @@ A bankruptcy mill is a high-volume law firm that processes large numbers of bank
 
 What is the Chapter 13 dismissal rate in Kansas City?
 
-In the Western District of Missouri (which covers the Missouri side of Kansas City), 44.4% of Chapter 13 cases filed between 2018 and 2024 were dismissed without the debtor receiving a discharge. The neighboring District of Kansas, covering the Kansas side of the metro area, has a dismissal rate of 35.5% -- nearly 9 percentage points lower. Both courts serve the same metropolitan area.
+In the Western District of Missouri (which covers the Missouri side of Kansas City), 44.4% of Chapter 13 cases filed between 2018 and 2024 were dismissed without the debtor receiving a discharge. The neighboring District of Kansas, covering the Kansas side of the metro area, has a dismissal rate of 35.5% - nearly 9 percentage points lower. Both courts serve the same metropolitan area.
 
 How concentrated is the Kansas City bankruptcy market?
 
-Extremely concentrated. Just 15 attorneys handle 80.6% of all Chapter 13 filings in the Western District of Missouri. These 500+ case attorneys have a 42% dismissal rate. By comparison, high-volume attorneys in the District of Kansas have a 26.2% dismissal rate -- 16 percentage points lower.
+Extremely concentrated. Just 15 attorneys handle 80.6% of all Chapter 13 filings in the Western District of Missouri. These 500+ case attorneys have a 42% dismissal rate. By comparison, high-volume attorneys in the District of Kansas have a 26.2% dismissal rate - 16 percentage points lower.
 
 Is a high-volume attorney automatically a bad choice?
 
@@ -1045,7 +1049,7 @@ Public court records through PACER contain the outcome of every bankruptcy case.
 
 What should I do if I think my attorney is a mill?
 
-If you believe your attorney is not providing adequate representation: (1) document specific failures -- missed deadlines, unanswered communications, filing errors; (2) request a copy of your complete case file; (3) consult with another bankruptcy attorney for a second opinion; (4) file a complaint with your state bar association if warranted; (5) consider filing a motion to substitute counsel with the court. You have the right to competent representation under the Rules of Professional Conduct.
+If you believe your attorney is not providing adequate representation: (1) document specific failures - missed deadlines, unanswered communications, filing errors; (2) request a copy of your complete case file; (3) consult with another bankruptcy attorney for a second opinion; (4) file a complaint with your state bar association if warranted; (5) consider filing a motion to substitute counsel with the court. You have the right to competent representation under the Rules of Professional Conduct.
 
 Can I file on the Kansas side instead of the Missouri side?
 
@@ -1094,10 +1098,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
+Cornell LII - debt relief agency rules
 
 U.S. Trustee Program
 DOJ attorney oversight
@@ -1142,7 +1146,7 @@ howtofilebankruptcy.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1270,3 +1274,75 @@ Free bankruptcy education. Not legal advice. Consult a qualified attorney for yo
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
 Privacy | Terms
+
+---
+
+## Privacy Policy - kansascitybankruptcymill.com
+Source: https://kansascitybankruptcymill.com/privacy.html
+
+kansascitybankruptcymill.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
